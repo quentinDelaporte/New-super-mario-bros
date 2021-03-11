@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="-1" width="200" height="30" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="BG" tilewidth="32" tileheight="32" tilecount="1200" columns="40">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/BG.png" width="1280" height="960"/>
+ </tileset>
+ <tileset firstgid="1201" name="1" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/1.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1217" name="2" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/2.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1233" name="3" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/3.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1249" name="4" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/4.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1265" name="5" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/5.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1281" name="6" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/6.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1297" name="7" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/7.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1313" name="8" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/8.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1329" name="9" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/9.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1345" name="10" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/10.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1361" name="11" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/11.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1377" name="12" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/12.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1393" name="13" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/13.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1409" name="14" tilewidth="32" tileheight="32" tilecount="8" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/14.png" width="128" height="93"/>
+ </tileset>
+ <tileset firstgid="1417" name="15" tilewidth="32" tileheight="32" tilecount="8" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/15.png" width="128" height="93"/>
+ </tileset>
+ <tileset firstgid="1425" name="16" tilewidth="32" tileheight="32" tilecount="8" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/16.png" width="128" height="93"/>
+ </tileset>
+ <tileset firstgid="1433" name="Bush (1)" tilewidth="32" tileheight="32" tilecount="8" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Bush (1).png" width="145" height="88"/>
+ </tileset>
+ <tileset firstgid="1441" name="Bush (2)" tilewidth="32" tileheight="32" tilecount="8" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Bush (2).png" width="131" height="74"/>
+ </tileset>
+ <tileset firstgid="1449" name="Cactus (1)" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Cactus (1).png" width="108" height="111"/>
+ </tileset>
+ <tileset firstgid="1458" name="Cactus (2)" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Cactus (2).png" width="70" height="45"/>
+ </tileset>
+ <tileset firstgid="1460" name="Cactus (3)" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Cactus (3).png" width="86" height="96"/>
+ </tileset>
+ <tileset firstgid="1466" name="Crate" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Crate.png" width="101" height="101"/>
+ </tileset>
+ <tileset firstgid="1475" name="Grass (1)" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Grass (1).png" width="102" height="50"/>
+ </tileset>
+ <tileset firstgid="1478" name="Grass (2)" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Grass (2).png" width="102" height="50"/>
+ </tileset>
+ <tileset firstgid="1481" name="Sign" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Sign.png" width="85" height="88"/>
+ </tileset>
+ <tileset firstgid="1485" name="SignArrow" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/SignArrow.png" width="84" height="87"/>
+ </tileset>
+ <tileset firstgid="1489" name="Skeleton" tilewidth="32" tileheight="32" tilecount="4" columns="4">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Skeleton.png" width="150" height="51"/>
+ </tileset>
+ <tileset firstgid="1493" name="Stone" tilewidth="32" tileheight="32" tilecount="6" columns="3">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Stone.png" width="124" height="73"/>
+ </tileset>
+ <tileset firstgid="1499" name="StoneBlock" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/StoneBlock.png" width="101" height="99"/>
+ </tileset>
+ <tileset firstgid="1508" name="Tree" tilewidth="32" tileheight="32" tilecount="72" columns="9">
+  <image source="C:/Users/quent/Desktop/Prog/JAVA/MarioBros/valaga/core/assets/Tree.png" width="313" height="260"/>
+ </tileset>
+ <layer id="1" name="bg" width="200" height="30">
+  <data encoding="base64" compression="gzip">
+   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
+  </data>
+ </layer>
+ <layer id="3" name="floor" width="200" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2X61ITQRBGByRREEG5iHcREFHe/wEwoKCINx5BUFHwAqiBJHDyI1WpIbuzk12YOPWdqlO1vdOT6Z50qsAYIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIcT/yKeSMVu4jZ/xC37FHfyG30uhK8yPq0chkthlPvbwB/7EX/gb9/EADyOYH1ePQiTxh/n4i/+wikd4jDWsYyOC+XH1KEQSJ835KBvTh/14CQewhGW8XA5dYX5cPQqRxBXmYxCH8CoO4zUcwVG8HsH8uHoUIokbzMcYjuMETuJNnMJbeDuC+XH1KEQSd5iPu3gP7+MDfIjT+AhnIpgfV49FUOFvuGVc6fL/mbz7z5uLrO89Z3zAj7iZct5F1DTLfMzhY5zHJ7iAT/EZLkbw+3D1uDRgzHOs4LL1bK+FjnuplrTaiuoh1rsKHfvkruALfImr1rO9FjrupVrSaiuqh1jvKnTsk7uGr/A1rlvP9lrouJdqSautqB5ivavQsU/uG9zAt/jOerbXQse9VEtabUX1EOtdhY59cqt4hMdY6xB3etceZ12z83z2umpwnduKqxnPsN/7npunL9f+EHHez+j2ez30vMssOT57m3EdG3iCpnQ27vSuPc66Zuf57HXV4Dq3FdcdNbXntb/3PTdPX679IeK8n9Ht91r1vMssOT57m/Ep2QPsxsBdAAA=
+  </data>
+ </layer>
+ <layer id="4" name="deco" width="200" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3BAQ0AAADCoPdP7ewBFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN7SqhPfAXQAA
+  </data>
+ </layer>
+</map>

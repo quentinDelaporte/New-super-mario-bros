@@ -1,0 +1,19 @@
+marioJump.png
+size: 62, 32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 0, 0
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 34, 0
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
